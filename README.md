@@ -1,6 +1,6 @@
 ***
 # C HTTP-Server
-Work from Undergrad
+Work from Undergrad. Changes still necessary, but basic are finished.
 ***
 
 ##### Instructions for Building and Executing
