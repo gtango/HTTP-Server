@@ -8,3 +8,7 @@
     *  GET: curl http://localhost:(portNumber)/(fileNameWeWantOnServer)
     *  PUT: curl -T (fileOnClientSide) http://localhost:(portNumber)/(fileNameWeWantOnServer)
     *  HEAD: curl -I http://localhost:(portNumber)/(fileNameWeWantOnServer)
+
+##### Notes
+
+1. Does not work for mp4 files and such videos
